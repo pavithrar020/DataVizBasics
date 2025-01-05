@@ -1,7 +1,7 @@
 # README: Week 2 Notebook - Pavithra Ramakrishnan
 
 ## Overview
-This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part of a weekly assignment. It focuses on tasks or concepts covered during Week 2, providing detailed implementation and analysis.
+This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part of a weekly assignment. It focuses on tasks or concepts covered during Week 2 of my data visualization class, providing detailed implementation and analysis.
 
 ---
 
