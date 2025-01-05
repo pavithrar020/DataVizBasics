@@ -1,21 +1,21 @@
 # README: Week 2 Notebook - Pavithra Ramakrishnan
 
 ## Overview
-This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part of a weekly assignment or project. It focuses on specific tasks or concepts covered during Week 2, providing detailed implementation and analysis.
+This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part of a weekly assignment. It focuses on tasks or concepts covered during Week 2, providing detailed implementation and analysis.
 
 ---
 
 ## Features
 - **Structured Workflow**: Organized sections with clear objectives for Week 2 tasks.  
 - **Practical Examples**: Includes hands-on examples and code snippets to illustrate key concepts.  
-- **Data Analysis/Processing**: May include data manipulation, visualization, or computation tasks.  
+- **Data Analysis/Processing** includes data manipulation, visualization, or computation tasks.  
 - **Documentation**: Inline comments and markdown cells for explanations and context.
 
 ---
 
 ## Prerequisites
 - **Python**: Version 3.7 or higher  
-- **Jupyter Notebook**: Ensure you have it installed via Anaconda or pip.  
+- **Jupyter Notebook**: Please make sure you have it installed via Anaconda or pip.  
 - **Required Libraries**: Specific libraries depend on the tasks in the notebook, but commonly used ones include:
   - pandas
   - NumPy
@@ -42,7 +42,7 @@ This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part
 ---
 
 ## Customization
-- **Data Input**: Replace any sample data with your own dataset if applicable.  
+- **Data Input**: Replace any sample data with your dataset if applicable.  
 - **Parameters**: Adjust code parameters to explore different scenarios or enhance the results.  
 - **Extensions**: Add new cells for additional analysis or insights based on Week 2's topic.
 
@@ -52,5 +52,3 @@ This Jupyter Notebook, `Ramakrishnan_Pavithra_Week_2.ipynb`, is designed as part
 - Integrate advanced features or algorithms related to the week's topic.  
 - Expand on visualizations for deeper insights.  
 - Provide a summary report or conclusions at the end of the notebook.
-
-This notebook serves as a focused resource for Week 2 activities, enabling learning and practical application of relevant concepts.
